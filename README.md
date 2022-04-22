@@ -28,8 +28,8 @@ pip install pyamze
 
 ## Maze
 
+![Screenshot (3)](https://user-images.githubusercontent.com/82858526/164581405-80c1aaef-a8d7-4556-80e5-8ac50e87afbe.png)
 
-## Final output
+## Final Output
 
-
-
+![Screenshot (4)](https://user-images.githubusercontent.com/82858526/164581424-52ac9367-c572-4f84-8eec-a287cd0ce154.png)
